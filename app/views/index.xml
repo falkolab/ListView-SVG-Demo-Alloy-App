@@ -3,7 +3,8 @@
 		<ListView defaultItemTemplate="customTemplate">
 			<Templates>
 				<ItemTemplate name="customTemplate">
-					<SvgView bindId="svgImage" ns="Alloy.Globals.uiModules" />
+					<SvgView platform="android" bindId="svgImage" ns="Alloy.Globals.uiModules" />
+					<View platform="ios" bindId="svgImage" ns="Com.Geraudbourdin.Svgview"/>
 				</ItemTemplate>
 			</Templates>
 			<ListSection>
