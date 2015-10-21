@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12005) - http://www.bohemiancoding.com/sketch -->
+    <title>Electricity</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="-10" dy="-8" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.105 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-10" dy="-8" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.105 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Electricity" sketch:type="MSLayerGroup" transform="translate(20.886252, 20.490355)">
+            <polygon id="Triangle-8" fill="#FFFFFF" sketch:type="MSShapeGroup" points="72 8.65973434 143.940807 129.363677 0.225714907 129.363677 "></polygon>
+            <path d="M71.0215866,62.2288464 L57.0762496,82.5096452 L71.6137481,82.5096445 L67.3400876,105.377114 L83.1137482,74.5096445 L70.6137481,74.5096445 L71.1137481,62.0096445" id="Path-166" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <polygon id="Triangle-21" fill="#D599FF" filter="url(#filter-1)" sketch:type="MSShapeGroup" points="75 12.7777827 146.940807 133.481725 3.22571491 133.481725 "></polygon>
+            <polygon id="Triangle-9" fill="#FFFFFF" sketch:type="MSShapeGroup" points="72.0832631 31.6637634 121.456264 116.595745 22.7102578 116.595745 "></polygon>
+            <polygon id="Triangle-20" fill="#F8EF7A" filter="url(#filter-2)" sketch:type="MSShapeGroup" points="75.0832631 35.7818117 124.456264 120.713793 25.7102578 120.713793 "></polygon>
+            <path d="M71.0215866,62.2288464 L57.0762496,82.5096452 L71.6137481,82.5096445 L67.3400876,105.377114 L83.1137482,74.5096445 L70.6137481,74.5096445 L71.1137481,62.0096445" id="Path-168" fill="#D599FF" sketch:type="MSShapeGroup"></path>
+            <polygon id="Triangle-19" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup" points="72 8.65973434 143.940807 129.363677 0.225714907 129.363677 "></polygon>
+            <polygon id="Triangle-12" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup" points="72.0832631 31.6637634 121.456264 116.595745 22.7102578 116.595745 "></polygon>
+            <path d="M72.0215866,62.2288464 L58.0762496,82.5096452 L72.6137481,82.5096445 L68.3400876,105.377114 L84.1137482,74.5096445 L71.6137481,74.5096445 L72.1137481,62.0096445" id="Path-167" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="#FF6D8A" sketch:type="MSShapeGroup"></path>
+            <path d="M23.613748,25.5096446 L18.113748,33.5096446 L24.613748,34.0096446 L20.113748,40.5096446" id="Path-123" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M134.613748,63.5 L129.113748,71.5 L135.613748,72 L131.113748,78.5" id="Path-123" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M91.613748,0.5 L86.113748,8.5 L92.613748,9 L88.113748,15.5" id="Path-123" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12005) - http://www.bohemiancoding.com/sketch -->
+    <title>Submarine</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="-3" dy="-3" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.105 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-3" dy="-3" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.105 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Submarine" sketch:type="MSLayerGroup" transform="translate(24.000000, 22.000000)">
+            <path d="M0,92 C0,89.6666667 5,85 5,85 L16,85 L16,99 L5,99 C5,99 0,94.3333333 0,92 Z" id="Rectangle-321" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="#5FDC76" sketch:type="MSShapeGroup"></path>
+            <rect id="Rectangle-318" fill="#FFFFFF" sketch:type="MSShapeGroup" x="12" y="61" width="124" height="60" rx="40"></rect>
+            <path d="M54.2343557,40.5734975 C55.7617788,35.8384856 61.0275114,32 66.0064619,32 L94.9935381,32 C99.9676697,32 104,36.0209279 104,41.0081258 L104,63 L47,63 L54.2343557,40.5734975 Z" id="Rectangle-319" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M58.2343557,40.5734975 C59.7617788,35.8384856 65.0275114,32 70.0064619,32 L98.9935381,32 C103.96767,32 108,36.0209279 108,41.0081258 L108,63 L51,63 L58.2343557,40.5734975 Z" id="Rectangle-319-Copy" fill="#7EC9C4" filter="url(#filter-1)" sketch:type="MSShapeGroup"></path>
+            <rect id="Rectangle-318-Copy" fill="#85D6EE" filter="url(#filter-2)" sketch:type="MSShapeGroup" x="17" y="66" width="124" height="60" rx="40"></rect>
+            <rect id="Rectangle-318-Copy-2" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup" x="12" y="61" width="124" height="60" rx="40"></rect>
+            <circle id="Oval-169" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="#F8B163" sketch:type="MSShapeGroup" cx="46" cy="91" r="8"></circle>
+            <circle id="Oval-169-Copy" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="#F8B163" sketch:type="MSShapeGroup" cx="75" cy="91" r="8"></circle>
+            <circle id="Oval-169-Copy-2" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="#F8B163" sketch:type="MSShapeGroup" cx="104" cy="91" r="8"></circle>
+            <path d="M54.2343557,40.5734975 C55.7617788,35.8384856 61.0275114,32 66.0064619,32 L94.9935381,32 C99.9676697,32 104,36.0209279 104,41.0081258 L104,63 L47,63 L54.2343557,40.5734975 Z" id="Rectangle-319-Copy-2" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <rect id="Rectangle-320" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="#F8B163" sketch:type="MSShapeGroup" x="77" y="43" width="27" height="12"></rect>
+            <path d="M4,63.5 C4,55.6666667 6,40 6,40 L12,40 C12,40 14,55.6666667 14,63.5 C14,71.3333333 12,87 12,87 L6,87 C6,87 4,71.3333333 4,63.5 Z" id="Rectangle-322" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="#D4AEAE" sketch:type="MSShapeGroup"></path>
+            <path d="M4,120.5 C4,112.666667 6,97 6,97 L12,97 C12,97 14,112.666667 14,120.5 C14,128.333333 12,144 12,144 L6,144 C6,144 4,128.333333 4,120.5 Z" id="Rectangle-322-Copy" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="#D4AEAE" sketch:type="MSShapeGroup"></path>
+            <rect id="Rectangle-324" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="#85D6EE" sketch:type="MSShapeGroup" x="81" y="0" width="10" height="34"></rect>
+            <rect id="Rectangle-324-Copy" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="#85D6EE" sketch:type="MSShapeGroup" x="68" y="20" width="10" height="14"></rect>
+            <path d="M117.973801,133 L137.071337,133" id="Line" stroke="#535353" stroke-width="2" stroke-linecap="square" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M42.9889078,139 L88.0713367,139" id="Line-Copy-22" stroke="#535353" stroke-width="2" stroke-linecap="square" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M12,28 L40.0713367,28" id="Line-Copy-23" stroke="#535353" stroke-width="2" stroke-linecap="square" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<Alloy>
+	<Window title="Demo: SVG + ListView">
+		<ListView defaultItemTemplate="customTemplate">
+			<Templates>
+				<ItemTemplate name="customTemplate">
+					<SvgView bindId="svgImage" ns="Alloy.Globals.uiModules" />
+				</ItemTemplate>
+			</Templates>
+			<ListSection>
+				<ListItem svgImage:image="/1.svg"/>
+				<ListItem svgImage:image="/2.svg"/>
+				<ListItem svgImage:image="/3.svg"/>
+				<ListItem svgImage:image="/4.svg"/>
+				<ListItem svgImage:image="/5.svg"/>
+				<ListItem svgImage:image="/6.svg"/>
+				<ListItem svgImage:image="/7.svg"/>
+				<ListItem svgImage:image="/8.svg"/>
+				<ListItem svgImage:image="/9.svg"/>
+				<ListItem svgImage:image="/10.svg"/>				
+			</ListSection>
+		</ListView>
+	</Window>
+</Alloy>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12005) - http://www.bohemiancoding.com/sketch -->
+    <title>BugSearch</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="-11" dy="-3" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.105 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-11" dy="-3" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.105 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="BugSearch" sketch:type="MSLayerGroup" transform="translate(9.000000, -1.000000)">
+            <path d="M98.7781746,127.211258 C123.853612,122.317308 142.778175,100.229601 142.778175,73.7218254 C142.778175,43.6223065 118.377693,19.2218254 88.2781746,19.2218254 C58.1786557,19.2218254 33.7781746,43.6223065 33.7781746,73.7218254 C33.7781746,100.229601 52.7027375,122.317308 77.7781746,127.211258 L77.7781746,157.221825 L98.7781746,157.221825 L98.7781746,127.211258 L98.7781746,127.211258 Z M88.2781746,115.221825 C111.197992,115.221825 129.778175,96.6416425 129.778175,73.7218254 C129.778175,50.8020083 111.197992,32.2218254 88.2781746,32.2218254 C65.3583575,32.2218254 46.7781746,50.8020083 46.7781746,73.7218254 C46.7781746,96.6416425 65.3583575,115.221825 88.2781746,115.221825 Z" id="Oval-52" fill="#FFFFFF" sketch:type="MSShapeGroup" transform="translate(88.278175, 88.221825) rotate(-315.000000) translate(-88.278175, -88.221825) "></path>
+            <path d="M101.778175,131.211258 C126.853612,126.317308 145.778175,104.229601 145.778175,77.7218254 C145.778175,47.6223065 121.377693,23.2218254 91.2781746,23.2218254 C61.1786557,23.2218254 36.7781746,47.6223065 36.7781746,77.7218254 C36.7781746,104.229601 55.7027375,126.317308 80.7781746,131.211258 L80.7781746,161.221825 L101.778175,161.221825 L101.778175,131.211258 L101.778175,131.211258 Z M91.2781746,119.221825 C114.197992,119.221825 132.778175,100.641643 132.778175,77.7218254 C132.778175,54.8020083 114.197992,36.2218254 91.2781746,36.2218254 C68.3583575,36.2218254 49.7781746,54.8020083 49.7781746,77.7218254 C49.7781746,100.641643 68.3583575,119.221825 91.2781746,119.221825 Z" id="Oval-47" fill="#7EC9C4" filter="url(#filter-1)" sketch:type="MSShapeGroup" transform="translate(91.278175, 92.221825) rotate(-315.000000) translate(-91.278175, -92.221825) "></path>
+            <rect id="Rectangle" fill="#5FDC76" filter="url(#filter-2)" sketch:type="MSShapeGroup" transform="translate(34.709632, 148.790368) rotate(-315.000000) translate(-34.709632, -148.790368) " x="24.2096321" y="137.790368" width="21" height="22"></rect>
+            <path d="M98.7781746,127.211258 C123.853612,122.317308 142.778175,100.229601 142.778175,73.7218254 C142.778175,43.6223065 118.377693,19.2218254 88.2781746,19.2218254 C58.1786557,19.2218254 33.7781746,43.6223065 33.7781746,73.7218254 C33.7781746,100.229601 52.7027375,122.317308 77.7781746,127.211258 L77.7781746,157.221825 L98.7781746,157.221825 L98.7781746,127.211258 L98.7781746,127.211258 Z M88.2781746,115.221825 C111.197992,115.221825 129.778175,96.6416425 129.778175,73.7218254 C129.778175,50.8020083 111.197992,32.2218254 88.2781746,32.2218254 C65.3583575,32.2218254 46.7781746,50.8020083 46.7781746,73.7218254 C46.7781746,96.6416425 65.3583575,115.221825 88.2781746,115.221825 Z" id="Oval-49" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup" transform="translate(88.278175, 88.221825) rotate(-315.000000) translate(-88.278175, -88.221825) "></path>
+            <rect id="Rectangle-5" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup" transform="translate(31.709632, 144.790368) rotate(-315.000000) translate(-31.709632, -144.790368) " x="21.2096321" y="133.790368" width="21" height="22"></rect>
+            <circle id="Oval-50" fill="#FAF1D9" sketch:type="MSShapeGroup" cx="98.6490276" cy="77.9204146" r="40.7102073"></circle>
+            <path d="M98.6490276,46.7102073 C81.412106,46.7102073 67.4388203,60.683493 67.4388203,77.9204146" id="Oval-51" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M101,64.2765293 C107.5,64.2765293 112.5,60.5 113.5,69 C114.5,77.5 121,72 121,67.5 C121,63 120.5,53.0000001 110.5,55.5 C100.5,57.9999999 98.0000002,53.7234706 96.5,57.5 C94.9999998,61.2765293 94.5000001,64.2765293 101,64.2765293 Z" id="Path-51" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="#F8B163" sketch:type="MSShapeGroup"></path>
+            <path d="M99.1873944,98.1213201 C104.067628,98.1213201 107.821655,95.285882 108.57246,101.667727 C109.323265,108.049571 114.203499,103.920142 114.203499,100.541519 C114.203499,97.1628952 113.828097,89.6548427 106.320044,91.5318558 C98.8119917,93.4088688 96.9349787,90.1980282 95.8087707,93.0334662 C94.6825627,95.8689043 94.3071602,98.1213201 99.1873944,98.1213201 Z" id="Path-51" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="#F8B163" sketch:type="MSShapeGroup" transform="translate(104.649028, 98.121320) rotate(-209.000000) translate(-104.649028, -98.121320) "></path>
+            <path d="M86,73.4483411 C86,73.4483411 65.5,81.4483411 77.5,89.4483411 C89.5,97.4483411 79.9999999,83.4483411 83,80.4483411 C86.0000001,77.4483411 86,73.4483411 86,73.4483411 Z" id="Path-53" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="#F8B163" sketch:type="MSShapeGroup"></path>
+            <path d="M82.5,83 C82.5,83 85.5,81.5 87.5,82.5" id="Path-54" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M85.5,77 C85.5,77 88,77.5 89,76.5" id="Path-55" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M100.5,64.5 C100.5,64.5 99,65.5 100,67.5" id="Path-56" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M114,72.1983411 C114,72.1983411 110.5,72.6983411 111,74.6983411" id="Path-57" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M99,96 C99,96 100,96.5 100,93.5" id="Path-58" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M110.5,95 C110.5,95 110,92 112,90.5" id="Path-59" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M58,27.5 C58,27.5 51.5,26.5 51.5,32.5" id="Path-60" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M142,29.6775 C142,29.6775 146.5,22.6775 153,26.1775" id="Path-61" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup" transform="translate(147.500000, 27.437500) rotate(-83.000000) translate(-147.500000, -27.437500) "></path>
+            <path d="M142,132 C142,132 142,129.5 145,126" id="Path-62" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M127,145.5 C127,145.5 131,140.5 134,147.5" id="Path-63" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M114,153 C114,153 125.5,157.5 124,151.5" id="Path-64" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

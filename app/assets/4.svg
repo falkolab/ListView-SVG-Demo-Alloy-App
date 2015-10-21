@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12005) - http://www.bohemiancoding.com/sketch -->
+    <title>Temperature</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="-10" dy="-8" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.105 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Temperature" sketch:type="MSLayerGroup" transform="translate(20.000000, 16.000000)">
+            <path d="M84.0000008,79.7413243 C96.344746,84.9954981 105,97.2369776 105,111.5 C105,130.553824 89.5538239,146 70.5,146 C51.4461761,146 36,130.553824 36,111.5 C36,97.2369776 44.655254,84.9954981 56.9999992,79.7413243 L57,21.5030413 C57,14.0455175 63.0425165,8 70.5,8 C77.9558441,8 84,14.0457955 84,21.5030413 L84,79.7413194 Z" id="Oval-15" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M60.9999998,36 L60.9999992,80.7413243 C48.655254,85.9954981 40,98.2369776 40,112.5 C40,131.553824 55.4461761,147 74.5,147 C93.5538239,147 109,131.553824 109,112.5 C109,98.2369776 100.344746,85.9954981 88.0000008,80.7413243 L88,80.7413194 L88,36 L60.9999998,36 Z" id="Oval-13" fill="#FF6D8A" filter="url(#filter-1)" sketch:type="MSShapeGroup"></path>
+            <path d="M84,79.741324 C96.3447456,84.9954976 105,97.2369773 105,111.5 C105,130.553824 89.5538239,146 70.5,146 C51.4461761,146 36,130.553824 36,111.5 C36,97.2369773 44.6552544,84.9954976 57,79.741324 L57,37 L84,37 L84,79.741324 Z" id="Oval-14" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M84,47 L75,47" id="Line" stroke="#535353" stroke-width="2" stroke-linecap="square" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M84,53 L78.0473271,53" id="Line" stroke="#535353" stroke-width="2" stroke-linecap="square" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M84,60 L75,60" id="Line" stroke="#535353" stroke-width="2" stroke-linecap="square" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M84,67 L78.0473271,67" id="Line" stroke="#535353" stroke-width="2" stroke-linecap="square" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M84,74 L75,74" id="Line" stroke="#535353" stroke-width="2" stroke-linecap="square" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M70.5,140 C86.2401154,140 99,127.240115 99,111.5" id="Oval-16" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M84,37 L56.9814878,37" id="Line" stroke="#535353" stroke-width="2" stroke-linecap="square" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <circle id="Oval-20" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="#F8EF7A" sketch:type="MSShapeGroup" cx="17" cy="20" r="9"></circle>
+            <path d="M128.3125,28.001138 C127.076797,28.6394976 125.674248,29 124.1875,29 C119.216937,29 115.1875,24.9705627 115.1875,20 C115.1875,15.0294373 119.216937,11 124.1875,11 C125.674248,11 127.076797,11.3605024 128.3125,11.998862 C125.416945,13.4946949 123.4375,16.5161854 123.4375,20 C123.4375,23.4838146 125.416945,26.5053051 128.3125,28.001138 Z" id="Oval-19" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="#7EC9C4" sketch:type="MSShapeGroup"></path>
+            <path d="M17,33 L17,37 M4,20 L0,20 M17,7 L17,3 M30,20 L34,20" id="Line" stroke="#535353" stroke-width="2" stroke-linecap="square" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M117,3 L120,6" id="Line" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M133,0 L136,3" id="Line" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M130,34 L133,37" id="Line" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M117,6 L120,3" id="Line-2" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M133,3 L136,0" id="Line-2" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M130,37 L133,34" id="Line-2" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
